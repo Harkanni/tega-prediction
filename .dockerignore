@@ -1,0 +1,8 @@
+# Exclude the app2.py file
+app2.py
+tega-image.tar
+
+# You can add other files or directories to exclude here
+# Example:
+# .git
+# node_modules
