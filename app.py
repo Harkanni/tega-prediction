@@ -154,4 +154,4 @@ def predict():
     return jsonify({'error': 'Token not found'}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
